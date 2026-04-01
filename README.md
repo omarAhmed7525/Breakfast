@@ -1,16 +1,32 @@
-# project_1
+# Breakfast
 
-A new Flutter project.
+A Flutter mobile application that displays breakfast food categories, diet recommendations, and popular meals with a clean and modern UI.
+
+## Features
+
+- Browse food categories (Salad, Cake, Pie, Smoothies)
+- View diet recommendations with calorie and duration info
+- Explore popular meals with difficulty levels
+- Search bar with filter option
+- Clean and responsive UI using SVG icons
+
+## Built With
+
+- [Flutter](https://flutter.dev/) - UI Framework
+- [Dart](https://dart.dev/) - Programming Language
+- [flutter_svg](https://pub.dev/packages/flutter_svg) - SVG rendering
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repo
+```bash
+   git clone https://github.com/omarAhmed7525/Breakfast.git
+```
+2. Install dependencies
+```bash
+   flutter pub get
+```
+3. Run the app
+```bash
+   flutter run
+```
